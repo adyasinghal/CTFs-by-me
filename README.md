@@ -10,4 +10,4 @@ You’ve been given a string: _https%3A%2F%2Fdreamy-medovik-f5ab55.netlify.app%2
 [trekking.mp3](https://github.com/adyasinghal/CTFs-by-me/blob/main/trekking.mp3)
 
 #### Challenge 3: 
-[CTF1.wav]()
+[CTF1.wav](https://github.com/adyasinghal/CTFs-by-me/blob/main/CTF1.wav)
